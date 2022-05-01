@@ -1,5 +1,5 @@
 
-![sam-astros's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-astro&theme=monokai)
+![sam-astros's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-astro&theme=github_dark)
 
 ## Working on 👩‍💻
 * 💻 [Z-Sharp (Z#)](https://github.com/sam-astro/Z-Sharp), my own programming language with a cross-platform interpreter, built in C++
