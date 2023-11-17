@@ -15,4 +15,4 @@
 * 🔐 [**Vault**](https://github.com/sam-astro/vault)
   * Custom offline password and password-protected data manager
 * 🌱 [**Plant Disease Recognition**](https://github.com/sam-astro/plant-disease-recognition)
-  * Project designed around the identification and classification of plant diseases through images and location data, collected through a drone system
+  * Project designed around the identification and classification of plant diseases through images and location data, collected through an autonomous drone system
