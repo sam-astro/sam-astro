@@ -1,8 +1,8 @@
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-astro&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-astro&theme=github_dark" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-astro&layout=compact&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-astro&layout=compact&theme=github_dark" />
 </a>
 
 ## Bigger Projects 🏗
