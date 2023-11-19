@@ -1,5 +1,9 @@
-
-![sam-astros's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-astro&theme=github_dark)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-astro&theme=transparent" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-astro&layout=compact&theme=transparent" />
+</a>
 
 ## Bigger Projects 🏗
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
