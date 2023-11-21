@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-astro&theme=github_dark&layout=compact" />
 </a>
 
-## Bigger Projects 🏗
+## Some Projects 🏗
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
   * 16-bit processor I designed from scratch, and built an emulator for in C++
 * 💻 [**Z-Sharp (Z#)**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (no longer in development)}$
