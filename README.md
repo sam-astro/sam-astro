@@ -7,7 +7,7 @@
 
 ## Some Projects 🏗
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
-  * 16-bit processor I designed from scratch, and built an emulator for in C++
+  * 16-bit processor architecture I designed from scratch, and built an accompanying emulator for in C++
 * 💻 [**Z-Sharp (Z#)**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (no longer in development)}$
   * My own programming language with a cross-platform interpreter, built in C++
 * 💰 [**Distributed-Compute-Coin (DCC)**](https://github.com/sam-astro/Distributed-Compute-Coin)
