@@ -5,7 +5,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-astro&theme=github_dark&layout=compact" />
 </a>
 
-## Some Projects 🏗
+<br/>
+<br/>
+
+### ▶ Check Out My Youtube Channel, [AstroSam](https://www.youtube.com/@AstroSamDev)
+<br/>
+
+## Here Are Some Projects 🏗
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
   * 16-bit processor architecture I designed from scratch, and built an accompanying emulator for in C++
 * 💻 [**Z-Sharp (Z#)**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (no longer in development)}$
