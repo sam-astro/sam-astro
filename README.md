@@ -8,8 +8,6 @@
 <br/>
 <br/>
 
-### ▶ Check Out My Youtube Channel, [AstroSam](https://www.youtube.com/@AstroSamDev)
-<br/>
 
 ## Here Are Some Projects 🏗
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
