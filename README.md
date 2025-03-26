@@ -26,5 +26,5 @@
   * Project designed around the identification and classification of plant diseases through images and location data, collected through an autonomous drone system
 * 📓 [**LMark (LaTeX Markdown)**](https://github.com/sam-astro/LatexMarkdown)
   * Custom Markdown style meant to compile into LaTeX, meant for very fast notetaking with the customizability of LaTeX, but without having to type nearly as much.
-* 🐕‍🦺 [**Quadruped**](https://github.com/sam-astro/quadruped)
+* 🐕‍🦺 **Quadruped**
   * 3D printed quadruped robot utilizing inexpensive servos and an arduino
