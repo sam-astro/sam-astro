@@ -28,3 +28,5 @@
   * Custom Markdown style meant to compile into LaTeX, meant for very fast notetaking with the customizability of LaTeX, but without having to type nearly as much.
 * 🐕‍🦺 **Quadruped**
   * 3D printed quadruped robot utilizing inexpensive servos and an arduino
+* 🧠 [**Mind-Link**](https://github.com/sam-astro/Mind-Link)
+  * A work-in-progress open source brain-computer interface and connection system.
