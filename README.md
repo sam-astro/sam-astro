@@ -10,11 +10,13 @@
 
 
 ## Here Are Some Projects 🏗
+* <img src="https://github.com/Asa-Programming-Language/Asa/blob/main/media/ASA-supersmall.png?raw=true" align="top" width="25rem">  [**Asa Programming Language**](https://github.com/Asa-Programming-Language/Asa)
+  * A compiled systems programming language to replace C++. Inspired by the likes of Odin, Jai, and Go.
 * 💽 [**Astro-8**](https://github.com/sam-astro/Astro8-Computer)
   * 16-bit processor architecture I designed from scratch, and built an accompanying emulator for in C++
 * 💻 [**Z-Sharp (Z#)**](https://github.com/sam-astro/Z-Sharp) $\textsf{\color{orange} (no longer in development)}$
   * My own programming language with a cross-platform interpreter, built in C++
-* <img src="https://github.com/The-Distributed-Computing-Project/Distributed-Compute-Coin/blob/dev/Media/icon.png?raw=true" width="15rem" style="margin:auto"> [**AetherGrid (Previously Distributed-Compute-Coin)**](https://github.com/sam-astro/Distributed-Compute-Coin)
+* <img src="https://github.com/The-Distributed-Computing-Project/Distributed-Compute-Coin/blob/dev/Media/icon.png?raw=true" width="15rem">  [**AetherGrid (Previously Distributed-Compute-Coin)**](https://github.com/sam-astro/Distributed-Compute-Coin)
   * P2P blockchain cryptocurrency allowing developers to purchase distributed computing power to run their compute-heavy applications. Built-in C++
 * 🧠 [**Neural Networks**](https://github.com/sam-astro/NN-2)
   * Always testing new and challenging tasks for AI to learn
